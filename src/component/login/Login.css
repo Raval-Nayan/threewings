@@ -1,0 +1,133 @@
+.containe_login{
+    /* width: 100vw; */
+    height: 100vh;
+}
+
+.sign_btn{
+   
+        background-color: black; /* Green */
+        border: 1px solid white;
+        color: white;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        padding: 50px;
+        width: 120px;
+        height: 40px;
+        border-radius: 5px;
+      
+   
+    
+}
+
+.sign_btns{
+    background-color: black; /* Green */
+    border: 1px solid white;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    padding: 50px;
+    width: 120px;
+    height: 50px;
+    width: 200px;
+    border-radius: 5px;
+  
+}
+
+.p_text{
+    font-size: 13px;
+    margin-bottom: 20px;
+}
+
+.login_bg_color{
+    background-color: black;
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+.login_left_inner{
+    width: 60%;
+}
+
+
+.login_right_text{
+    color: white;
+    text-align: center;
+ 
+}
+
+.navstyle{
+    text-decoration: none;
+    color: white;
+}
+
+.login_right{
+     width: 100%;
+    height: 100%; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid green;
+}
+
+.login_box{
+    width: 100%;
+    height: 70%;
+    border: 3px solid red;
+   display: flex;
+   justify-content: center;
+
+}
+
+.guest_text{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+.input_icons_main{
+    position: relative;
+}
+
+.input_iconss{
+    position: absolute;
+  
+    right:1%;
+    top: 30%;
+   
+    font-size: 30px;
+}
+
+.eye_icon{
+    position: relative;
+}
+
+.eye_icons{
+    position: absolute;
+    right: 3%;
+    bottom: 50%;
+    font-size: 30px;
+}
+
+
+.form_main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid red;
+    height: 100%;
+}
+
+
+

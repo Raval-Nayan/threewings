@@ -1,0 +1,14 @@
+.videocard{
+    height: 150px !important;
+    width: 98%;
+    border-radius: 10px;
+
+}
+
+.img_size {
+height: 100px !important;
+}
+
+.textpdf{
+    cursor: pointer;
+}

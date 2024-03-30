@@ -1,0 +1,7 @@
+.sunject_main_container{
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    padding-top: 10px !important;
+  
+}

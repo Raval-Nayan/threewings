@@ -1,0 +1,35 @@
+*{
+  margin: 0 !important;
+  padding: 0 !important; 
+  box-sizing: border-box;
+}
+
+.appmainpage{
+  display: flex !important;
+  flex-direction: column !important;
+  width: 100%; 
+  position: relative;
+}
+
+.home_container{
+  position: relative;
+
+}
+
+.menu_con{
+  width: 10%;
+  height: 100vh;
+  position: sticky;
+  top: 1px;
+
+  
+}
+
+.nav{
+  position: sticky;
+  top: 1px;
+}
+
+#icon {
+  display: none !important;
+}

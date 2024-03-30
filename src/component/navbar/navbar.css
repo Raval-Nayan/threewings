@@ -1,0 +1,19 @@
+.logo{
+    height: 50px;
+    margin-left: 20px !important;
+}
+
+.navbar_container {
+    display: flex;
+    justify-content: flex-start;
+    gap: 1rem;
+    align-items: center;
+    width: 100%;
+    background-color: black;
+    height: 70px;
+}
+
+.nav_text{
+    color: white;
+    letter-spacing: 5px;
+}

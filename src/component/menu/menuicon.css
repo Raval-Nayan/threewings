@@ -1,0 +1,26 @@
+.menu_icon{
+    font-size: 40px !important;
+    color: white;
+    transition:1s ease-in;
+}
+
+.menu_icon:hover{
+    background-color: white;
+    color: black;
+   border-radius: 20px;
+    padding: 10px !important;
+    cursor: pointer;
+    transition:0.5s ease-out;
+
+}
+
+.category_box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.category_box label{
+    color: white;
+}

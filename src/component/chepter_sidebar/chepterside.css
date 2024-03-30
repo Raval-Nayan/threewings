@@ -1,0 +1,14 @@
+.chepter_sidebar_container{
+    width: 10%;
+    height: 100%;
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.chepter_inner_container{
+    width: 80%;
+    height: 100%;
+    /* border: 1px solid red; */
+}
