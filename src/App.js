@@ -53,7 +53,7 @@ function App() {
             {isUser ? (
               <>
                 <Route
-                  path="/"
+                  path="/home"
                   element={
                     <div className=" home_container d-flex">
                       <div className="menu_con">
